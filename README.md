@@ -1,4 +1,5 @@
-[README (2).md](https://github.com/user-attachments/files/27315162/README.2.md)
+[README.md](https://github.com/user-attachments/files/27315197/README.md)
+
 # DataSmart
 
 > A machine learning web app that cleans, analyzes, and builds predictive models from any CSV file — no coding required.
@@ -113,3 +114,4 @@ GitHub: [github.com/Khann033](https://github.com/Khann033)
 ---
 
 *This project is part of my machine learning learning journey. Built with curiosity, tested with real data, and shipped with help from Claude AI.*
+
