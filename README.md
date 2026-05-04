@@ -16,14 +16,6 @@ No installation needed — open the link, upload a CSV, and the app does the res
 
 ---
 
-## Live Demo
-
-**[Open DataSmart](https://datasmart-jh2t3aduvhlc9ljwaatzni.streamlit.app)**
-
-No installation needed — open the link, upload a CSV, and the app does the rest.
-
----
-
 ## About This Project
 
 I built this project while learning machine learning through the Kaggle ML course. As I was going through the lessons — understanding how models learn from data, how predictions work, how to evaluate accuracy — I realized I wanted to build something real, not just run notebook exercises.
