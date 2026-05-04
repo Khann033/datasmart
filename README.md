@@ -1,5 +1,9 @@
 [README.md](https://github.com/user-attachments/files/27315197/README.md)
+## Live Demo
 
+[Open DataSmart](https://datasmart-v2b2dg99txhfxpvggmwpfd.streamlit.app)
+
+No installation needed — open the link, upload a CSV, and the app does the rest.
 # DataSmart
 
 > A machine learning web app that cleans, analyzes, and builds predictive models from any CSV file — no coding required.
